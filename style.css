@@ -1,8 +1,10 @@
 *{
   margin: 0;
   padding: 0;
+   font-family: "Open Sans";
 }
 #page{
+  margin: 80px auto;
   width: 1120px;
 }
 #tittle p{
@@ -15,4 +17,104 @@
 img{
   border-radius: 28px;
   padding-bottom: 24px;
+}
+#description{
+  text-align: center;
+}
+#description p{
+  padding-bottom: 104px;
+}
+.primeiro {
+  text-transform: uppercase;
+  padding-bottom: 2px;
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+}
+#tittlelist h2{
+  padding-bottom: 2px;
+}
+#card1 img{
+  padding-top: 64px;
+  padding-bottom: 20px;
+}
+#card1 img{
+  padding-bottom: 4px;
+}
+.texto{
+  color: #333333;
+  font-weight: bold;
+}
+#card1{
+  padding-bottom: 48px;
+}
+#card2 img{
+  border-radius: 28px;
+  padding-bottom: 20px;
+}
+#card2 h2{
+  padding-bottom: 4px;
+}
+#card2 p{
+
+}
+.trem{
+  padding-bottom: 48px;
+}
+#card3 img{
+  padding-bottom: 20px;
+}
+#card3 h2{
+  padding-bottom: 4px;
+}
+
+#final p{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 65px;
+}
+#tittle p{
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+}
+h1{
+  color: #1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+}
+.titulo {
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic; /* Muda estilo da fonte para itálico */
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
+}
+.titulo2{
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic; /* Muda estilo da fonte para itálico */
+  color: #333333;
+  margin-top: 24px;
+}
+h2{
+  font-size: 32px;
+  
+}
+.historia{
+  color: #0C51A7;
+  font-weight: bold;
+}
+.roxo{
+  color: #591B98;
+  font-weight: bold;
+}
+.rosa{
+color: #E5245E;
+font-weight: bold;
+}
+.laranja{
+color: #E95E10;
+font-weight: bold;
 }
